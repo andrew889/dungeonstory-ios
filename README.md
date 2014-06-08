@@ -33,3 +33,5 @@ Dungeon Story is powered by [Cocos2D][2] framework.
 ## License
 
 Dungeon Story is released under the MIT License.
+
+Game Assets are copyrighted by Pantazis Deligiannis. Please use them only for learning purposes, and don't distribute them with your own project.
