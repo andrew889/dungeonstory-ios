@@ -4,14 +4,17 @@ Dungeon Story
 This is the open source release of the Dungeon Story Puzzle/RPG game for iOS.
 
 There are two main reasons behind open sourcing Dungeon Story: (i) to support
-the open source game dev community; and (ii) to help other people with their
-own iOS game projects.
+the open source game dev community; and (ii) to provide an example of a complex
+Puzzle/RPG game that other people can use as a basis/template to build their own
+iOS games.
 
-## ToDos
+## How to contribute / ToDos
 
 * Additional gameplay balancing
+* Bug fixes
+* Please feel free to suggest or develop new features
 * Update the game to the latest version of Cocos2d (3.0)
-* Potential refactoring to maximize source code reuse in the View submodule
+* Potential refactoring to maximize source code reuse, especially in the View submodule
 
 ## Links
 
