@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string>Info</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSTitleValueSpecifier</string>
+			<key>Key</key>
+			<string>version_preference</string>
+			<key>Title</key>
+			<string>Current Version</string>
+			<key>DefaultValue</key>
+			<string>1.3.2</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string>iCloud</string>
+		</dict>
+		<dict>
+			<key>Key</key>
+			<string>icloud_preference</string>
+			<key>Title</key>
+			<string>Use iCloud</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>DefaultValue</key>
+			<false/>
+			<key>TrueValue</key>
+			<string>YES</string>
+			<key>FalseValue</key>
+			<string>NO</string>
+		</dict>
+	</array>
+	<key>StringsTable</key>
+	<string>Root</string>
+</dict>
+</plist>

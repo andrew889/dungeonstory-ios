@@ -1,0 +1,716 @@
+//
+//  Localizable.strings
+//  DungeonStory
+//
+//  Created by Pantazis Deligiannis on 02/11/2012.
+//  Copyright Pantazis Deligiannis 2012-2014. All rights reserved.
+//
+
+/* English Localisation */
+
+"LANGUAGE" = "ENGLISH";
+
+// Character Related
+"HeroClass01" = "Adventurer";
+"HeroClass02" = "Knight";
+"HeroClass03" = "Wizard";
+"HeroClass04" = "Alchemist";
+"HeroClass05" = "Thief";
+"HeroClass06" = "Bard";
+"HeroClass07" = "Assassin";
+"HeroClass08" = "Engineer";
+"HeroClass09" = "Dragoon";
+
+"HeroRank01" = "Novice";
+"HeroRank02" = "Expert";
+"HeroRank03" = "Veteran";
+"HeroRank04" = "Master";
+"HeroRank05" = "Grand Master";
+
+"UpperMsgNoName" = "Mysterious %@";
+"UpperMsgName" = "%@, the %@";
+"UpperMsgLevel" = "Level %d";
+
+// Enemy related
+"Merchant" = "Merchant";
+
+"EnemyName101" = "Skeleton";
+"EnemyName102" = "Skeleton Brute";
+"EnemyName103" = "Executioner";
+"EnemyName104" = "Zombie";
+"EnemyName105" = "Ghoul";
+"EnemyName106" = "Blood Knight";
+"EnemyName107" = "Wolf";
+"EnemyName108" = "Dread Wolf";
+"EnemyName109" = "Scavenger";
+"EnemyName110" = "Ghost";
+"EnemyName111" = "Wraith";
+"EnemyName112" = "Minotaur";
+"EnemyName113" = "Gargoyle";
+"EnemyName114" = "Wyvern";
+"EnemyName115" = "Dragon";
+
+"EnemyName201" = "Goblin";
+"EnemyName202" = "Gremlin";
+"EnemyName203" = "Dead Walker";
+"EnemyName204" = "Lake Zombie";
+"EnemyName205" = "Parasite";
+"EnemyName206" = "Abyssal Terror";
+"EnemyName207" = "Giant Rat";
+"EnemyName208" = "Piranhas";
+"EnemyName209" = "Hydra";
+"EnemyName210" = "Imp";
+"EnemyName211" = "Lake Witch";
+"EnemyName212" = "Medusa";
+"EnemyName213" = "Salamander";
+"EnemyName214" = "Blue Dragon";
+"EnemyName215" = "Frost Dragon";
+
+"EnemyName301" = "Prisoner";
+"EnemyName302" = "Murderer";
+"EnemyName303" = "Cyclops";
+"EnemyName304" = "Ogre";
+"EnemyName305" = "Giant Leech";
+"EnemyName306" = "Ogre King";
+"EnemyName307" = "Werewolf";
+"EnemyName308" = "Spider Queen";
+"EnemyName309" = "T-Rex";
+"EnemyName310" = "Ork";
+"EnemyName311" = "Succubus";
+"EnemyName312" = "Abomination";
+"EnemyName313" = "Manticore";
+"EnemyName314" = "Red Dragon";
+"EnemyName315" = "Black Dragon";
+
+"EnemyName401" = "Satyr";
+"EnemyName402" = "Scylla";
+"EnemyName403" = "Echidna";
+"EnemyName404" = "Necromancer";
+"EnemyName405" = "Dark Priest";
+"EnemyName406" = "Devourer One";
+"EnemyName407" = "Basilisk";
+"EnemyName408" = "Beholder";
+"EnemyName409" = "Observer";
+"EnemyName410" = "Vampire";
+"EnemyName411" = "Methuselah";
+"EnemyName412" = "Immortal One";
+"EnemyName413" = "Zombie Dragon";
+"EnemyName414" = "Ghost Dragon";
+"EnemyName415" = "Death Dragon";
+
+"EnemyName501" = "Berserker";
+"EnemyName502" = "Earth Golem";
+"EnemyName503" = "Dark Emperor";
+"EnemyName504" = "Slayer";
+"EnemyName505" = "Mind Flayer";
+"EnemyName506" = "War Titan";
+"EnemyName507" = "Behemoth";
+"EnemyName508" = "Chimera";
+"EnemyName509" = "Sphinx";
+"EnemyName510" = "Daemon";
+"EnemyName511" = "Fallen Angel";
+"EnemyName512" = "Omega";
+"EnemyName513" = "Ruby Dragon";
+"EnemyName514" = "Chaos Dragon";
+"EnemyName515" = "Tiamat";
+
+"EnemyAbility01" = "\"has no special ability\"";
+"EnemyAbility02" = "\"can sell random items\"";
+"EnemyAbility03" = "\"can transmute the\nbattlefield into gold\"";
+"EnemyAbility04" = "\"gives you extra exp\"";
+"EnemyAbility05" = "\"is able to recover\nusing dark power\"";
+"EnemyAbility06" = "\"is able to heal\nby draining your life\"";
+"EnemyAbility07" = "\"can attack two\ntimes in a row\"";
+"EnemyAbility08" = "\"has a poisonous touch\"";
+"EnemyAbility09" = "\"can devastate you\nwith dragonfire\"";
+"EnemyAbility10" = "\"has extraordinary\nphysical defence\"";
+"EnemyAbility11" = "\"has extraordinary\nmagical defence\"";
+"EnemyAbility12" = "\"is able to absorb\nyour energy points\"";
+"EnemyAbility13" = "\"freezes time making\nyou unable to gain energy\"";
+"EnemyAbility14" = "\"can confuse you\nwith powerful hits\"";
+"EnemyAbility15" = "\"causes your bomb\nto malfunction\"";
+"EnemyAbility16" = "\"dampens your ability\nto heal your wounds\"";
+"EnemyAbility17" = "\"can blind you causing\nyour attacks to miss\"";
+"EnemyAbility18" = "\"reflects back half\nthe damage you deal\"";
+"EnemyAbility19" = "\"unleashes earthquakes\nthat destroy everything\"";
+"EnemyAbility20" = "\"teleports you to a\nnew location each turn\"";
+"EnemyAbility21" = "\"can randomly transmute\nhearts into gold\"";
+"EnemyAbility22" = "\"raises the damage\ndealt by both sides\"";
+
+// Battle Menu
+"TouchDmg" = "%d dmg";
+"TouchLife" = "%d life";
+"TouchGold" = "%d gold";
+
+"BattleClass" = "Class:";
+"BattleAttack" = "Attack:";
+"BattleDefence" = "Defence:";
+"BattleMagic" = "Magic:";
+"BattleLuck" = "Luck:";
+"BattleStatus" = "Status:";
+"MonsterPower" = "Power:";
+"MonsterExp" = "Exp:";
+"MonsterGold" = "Gold:";
+
+"BattleStatus01" = "Normal";
+"BattleStatus02" = "Protected";
+"BattleStatus03" = "Tipsy";
+"BattleStatus04" = "Enhanced";
+"BattleStatus05" = "Reflective";
+"BattleStatus06" = "Poisoned";
+"BattleStatus07" = "Confused";
+"BattleStatus08" = "Blind";
+
+"BattleShopName01" = "Rejuvenation";
+"BattleShopName02" = "Greed";
+"BattleShopName03" = "Ancient Wisdom";
+"BattleShopName04" = "Adrenaline";
+"BattleShopName05" = "Berserk";
+"BattleShopName06" = "Elemental Mastery";
+"BattleShopName07" = "Unbroken Will";
+"BattleShopName08" = "Eternal Hymn";
+"BattleShopName09" = "Curse";
+
+"BattleShopAbility01" = "%d%% extra healing from hearts";
+"BattleShopAbility02" = "coins worth %d extra gold";
+"BattleShopAbility03" = "%d%% extra exp from monsters";
+"BattleShopAbility04" = "%d%% chance to gain double energy";
+"BattleShopAbility05" = "%d%% extra physical damage";
+"BattleShopAbility06" = "%d%% extra magical damage";
+"BattleShopAbility07" = "%d%% extra damage resistance";
+"BattleShopAbility08" = "recover %d%% HP every turn";
+"BattleShopAbility09" = "enemy loses %d%% HP every turn";
+
+"BattleAbilityLevel" = "lvl %d";
+
+"MerchantMsg01" = "Welcome to my shop!";
+"MerchantMsg02" = "What would you like to buy?";
+"MerchantMsg03" = "Exit Shop?";
+
+"MerchantAbility01" = "Rejuvenation - Max\nExtra healing from hearts.";
+"MerchantAbility01x" = "Rejuvenation - Max Lvl\nExtra healing from hearts.\nCost: %d coins";
+"MerchantAbility01xx" = "Rejuvenation - Lvl %d\nExtra healing from hearts.\nCost: %d coins";
+"MerchantAbility02" = "Greed - Max:\nExtra gold from the run.";
+"MerchantAbility02x" = "Greed - Max Lvl\nCoins worth extra gold.\nCost: %d coins";
+"MerchantAbility02xx" = "Greed - Lvl %d\nCoins worth extra gold.\nCost: %d coins";
+"MerchantAbility03" = "Ancient Wisdom - Max:\nExtra exp from monsters.";
+"MerchantAbility03x" = "Ancient Wisdom - Max Lvl\nExtra exp from monsters.\nCost: %d coins";
+"MerchantAbility03xx" = "Ancient Wisdom - Lvl %d\nExtra exp from monsters.\nCost: %d coins";
+"MerchantAbility04" = "Adrenaline - Max:\nExtra energy per turn.";
+"MerchantAbility04x" = "Adrenaline - Max Lvl\nChance for double energy gains.\nCost: %d coins";
+"MerchantAbility04xx" = "Adrenaline - Lvl %d\nChance for double energy gains.\nCost: %d coins";
+"MerchantAbility05" = "Berserk - Max:\nExtra physical damage.";
+"MerchantAbility05x" = "Berserk - Max Lvl\nExtra physical damage.\nCost: %d coins";
+"MerchantAbility05xx" = "Berserk - Lvl %d\nExtra physical damage.\nCost: %d coins";
+"MerchantAbility06" = "Elemental Mastery - Max:\nExtra magical damage.";
+"MerchantAbility06x" = "Elemental Mastery - Max Lvl\nExtra magical damage.\nCost: %d coins";
+"MerchantAbility06xx" = "Elemental Mastery - Lvl %d\nExtra magical damage.\nCost: %d coins";
+"MerchantAbility07" = "Unbroken Will - Max:\nExtra damage resistance.";
+"MerchantAbility07x" = "Unbroken Will - Max Lvl\nExtra damage resistance.\nCost: %d coins";
+"MerchantAbility07xx" = "Unbroken Will - Lvl %d\nExtra damage resistance.\nCost: %d coins";
+"MerchantAbility08" = "Eternal Hymn - Max:\nRecover HP every turn.";
+"MerchantAbility08x" = "Eternal Hymn - Max Lvl\nRecover HP every turn.\nCost: %d coins";
+"MerchantAbility08xx" = "Eternal Hymn - Lvl %d\nRecover HP every turn.\nCost: %d coins";
+"MerchantAbility09" = "Curse - Max:\nEnemy loses HP every turn.";
+"MerchantAbility09x" = "Curse - Max Lvl\nEnemy loses HP every turn.\nCost: %d coins";
+"MerchantAbility09xx" = "Curse - Lvl %d\nEnemy loses HP every turn.\nCost: %d coins";
+
+"DefeatMsg01" = "Total Score:";
+"DefeatMsg02" = "Total Runs:";
+"DefeatMsg03" = "Total Gold:";
+"DefeatMsg04" = "Monster Kills:";
+"DefeatMsg05" = "Gained Exp:";
+
+// Battle Events
+"AttackMissed" = "You missed!";
+"MonsterAttacks01" = "Monster attacks for";
+"MonsterAttacks02" = "damage";
+"MonsterAttacks03" = "Enemy attacks for";
+
+"WaitingOpponent" = "WAITING\nOPPONENTS\nMOVE";
+
+"ArenaAttack01" = "Enemy heals for";
+"ArenaAttack02" = "health points";
+"ArenaAttack03" = "DAMAGE";
+
+"ArenaAbility01" = "Enemy picks up\nsome coins";
+"ArenaAbility02" = "ENEMY USES\nSUPER\nSHIELD WALL";
+"ArenaAbility03" = "ENEMY USES\nSHIELD WALL";
+"ArenaAbility04" = "ENEMY USES\nHEALTH POTION";
+"ArenaAbility05" = "ENEMY USES SUPER BOMB";
+"ArenaAbility06" = "ENEMY USES BOMB";
+"ArenaAbility07" = "ENEMY USES\nDRADONBREW";
+"ArenaAbility08" = "ENEMY USES\nTHE RUNE";
+"ArenaAbility09" = "ENEMY USES\nTHE MIRROR";
+"ArenaAbility10" = "ENEMY USES\nTHE FLUTE";
+
+"EventLevelUp" = "LEVEL UP!";
+"EventNewClasses" = "NEW CLASSES\nUNLOCKED!";
+"EventHeroShield" = "YOU EQUIP THE\nHERO SHIELD!";
+"EventNewDungeon" = "NEW DUNGEON\nUNLOCKED!";
+"EventMerchant" = "MERCHANT\nAPPEARS";
+"EventBoss" = "BOSS\nFIGHT";
+"EventSpecial" = "A SPECIAL\nMONSTER\nAPPEARS";
+"EventMonster" = "A NEW\nMONSTER\nAPPEARS";
+
+"EventAbilityTransmutation" = "All hearts were\ntransmuted\ninto gold!";
+"EventAbilityGold" = "The battlefield\nis transmuted\ninto gold!";
+"EventAbilityEarthquake" = "An earthquake\ndevastates\nthe battlefield!";
+"EventAbilityBlind" = "A hit between\nthe eyes\nblinds you!";
+"EventAbilityConfusion" = "You were hit\non the head and\nfeel confused!";
+"EventAbilityNegateEnergy" = "Monster absorbs\nyour energy!";
+"EventAbilityDragonFire" = "Monster attacks\nwith dragonfire!";
+"EventAbilityPoison" = "You are poisoned\nfor three turns!";
+"EventAbilityDoubleStrike" = "Monster attacks\nonce again!";
+"EventAbilityDrainLife" = "Monster drains\nyour life!";
+"EventAbilityHeal" = "Monster heals\nwith dark power!";
+
+// Pause Menu
+"HeroLevel" = "Hero Level:";
+"ExpLevel" = "Exp to Level Up:";
+"GatheredCoins" = "Gathered Coins:";
+"BattleRound" = "Battle Round:";
+"EnemyLevel" = "Enemy Level:";
+"ArenaVictories" = "Arena Victories:";
+
+// Menu Buttons
+"HeroMenu" = "HERO";
+"TownMenu" = "TOWN";
+
+"Dungeon01" = "Bloody Dungeon";
+"Dungeon02" = "Underground Lake";
+"Dungeon03" = "Forgotten Catacombs";
+"Dungeon04" = "Temple of Old Ones";
+"Dungeon05" = "Sanctum of Destiny";
+"Dungeon06" = "Realm\nof\nMadness";
+
+"Arena" = "Arena";
+"ComingSoon" = "Coming Soon";
+
+// Stats Menu
+"StatsName" = "Name:";
+"StatsLevel" = "Level:";
+"StatsExp" = "Req Exp:";
+"StatsHp" = "HP:";
+"StatsAttack" = "Attack:";
+"StatsDefence" = "Defence:";
+"StatsMagic" = "Magic:";
+"StatsLuck" = "Luck:";
+"StatsClass" = "Class:";
+"StatsRank" = "Rank:";
+"StatsScore" = "Total Score:";
+"StatsArena" = "Arena Victories:";
+"StatsMonsters" = "Monsters Killed:";
+"StatsRounds" = "Max Battle Rounds:";
+
+"NameTouchHere" = "[Touch Here]";
+
+"ClassAbilityName01" = "Treasure Hunting:";
+"ClassAbilityName02" = "Impenetrable Shield:";
+"ClassAbilityName03" = "Arcane Supremacy:";
+"ClassAbilityName04" = "Life Transmutation:";
+"ClassAbilityName05" = "Sneaky Strike:";
+"ClassAbilityName06" = "Ballad of Heroes:";
+"ClassAbilityName07" = "Fatefull Strike:";
+"ClassAbilityName08" = "Mechanical Works:";
+"ClassAbilityName09" = "Divine Protection:";
+
+"ClassAbility01" = "Able to find extra gold inside dungeons";
+"ClassAbility02" = "Shield defends against two extra enemy attacks";
+"ClassAbility03" = "Match 3 ice & fire spells for extra magic damage";
+"ClassAbility04" = "Gathered coins have a chance to restore your life";
+"ClassAbility05" = "Physical attacks steal the enemy's gold";
+"ClassAbility06" = "Raises the chances for a critical heal";
+"ClassAbility07" = "Critical hits can be triggered more often";
+"ClassAbility08" = "Bomb deals much more damage to enemies";
+"ClassAbility09" = "Enemies find it much harder to kill you";
+
+// Items Menu
+"ItemCounter" = "Items:";
+"GoldCounter" = "Gold:";
+
+"ItemWeapon" = "Weapon:";
+"ItemSpellbook" = "Spellbook:";
+"ItemArmor" = "Armor:";
+"ItemRing" = "Ring:";
+"ItemAmulet" = "Amulet:";
+
+"ItemEmpty" = "Empty";
+
+"Weapon01" = "Copper Sword";
+"Weapon02" = "Longsword";
+"Weapon03" = "Silver Sword";
+"Weapon04" = "Flame Sword";
+"Weapon05" = "Magic Blade";
+"Weapon06" = "Wyrmkiller";
+"Weapon07" = "Demonblade";
+"Weapon08" = "Deathbringer";
+"Weapon09" = "Lionheart";
+"Weapon10" = "Excalibur";
+
+"Spellbook01" = "Old Tome";
+"Spellbook02" = "Forgotten Tome";
+"Spellbook03" = "Tome of the Undying";
+"Spellbook04" = "Tome of the Corrupted";
+"Spellbook05" = "Tome of Fire and Ice";
+"Spellbook06" = "Tome of Fallen Heroes";
+"Spellbook07" = "Magician's Encyclopedia";
+"Spellbook08" = "Book of Whispers";
+"Spellbook09" = "Book of Dark Secrets";
+"Spellbook10" = "Book of Destiny";
+
+"Armor01" = "Cloth Tunic";
+"Armor02" = "Leather Chest";
+"Armor03" = "Iron Chest";
+"Armor04" = "Silver Chest";
+"Armor05" = "Golden Chest";
+"Armor06" = "Chest of the Fallen";
+"Armor07" = "Chest of Light";
+"Armor08" = "Dragonscale Plate Mail";
+"Armor09" = "Justice Full Plate Mail";
+"Armor10" = "Hero's Battlechest";
+
+"Ring01" = "Dark Signet";
+"Ring02" = "Signet of Empowerment";
+"Ring03" = "Chain of Victory";
+"Ring04" = "Seal of the Undead";
+"Ring05" = "Band of the Unspoken";
+"Ring06" = "Band of Terror";
+"Ring07" = "Light's Hope";
+"Ring08" = "Dragon's Bane";
+"Ring09" = "Union of Ages";
+"Ring10" = "Hero's Stone";
+
+"Amulet01" = "Pendant";
+"Amulet02" = "Magic Pendant";
+"Amulet03" = "War Insignia";
+"Amulet04" = "Charm of Protection";
+"Amulet05" = "Eye of the Witch";
+"Amulet06" = "Darkmoon Charm";
+"Amulet07" = "Twilight Charm";
+"Amulet08" = "Drakefire Ward";
+"Amulet09" = "The Crest of Time";
+"Amulet10" = "Hero's Medal";
+
+"BattleItemName02" = "Health Potion";
+"BattleItemName03" = "Pirate Bomb";
+"BattleItemName04" = "DragonBrew Ale";
+"BattleItemName05" = "Rune of Northern Seas";
+"BattleItemName06" = "Mirror of Destiny";
+"BattleItemName07" = "Ancient Flute";
+
+"BattleItem01" = "Consumes energy to protect\nyou from incoming damage for\na number of battle turns.";
+"BattleItem02" = "Consumes energy to restore your\nhealth points by a large amount,\ndepending on the item rank.";
+"BattleItem03" = "Consumes energy to explode the\nboard and damage your enemy. All\ntiles are randomised in the process.";
+"BattleItem04" = "Consumes energy to enhance\nyour physical and magical damage\nfor a number of battle turns.";
+"BattleItem05" = "Consumes energy to raise your\ncritical hit and heal chance\nfor a number of battle turns.";
+"BattleItem06" = "Consumes energy to allow you\nto deflect damage back to enemies\nfor a number of battle turns.";
+"BattleItem07" = "Consumes energy to perform\nvarious awesome special abilities,\ndepending on the item rank.";
+
+"BattleItemRank01" = "30% protection (1/3 energy)\n50% protection (2/3 energy)\n70% protection (3/3 energy)";
+"BattleItemRank01x" = "50% protection (1/3 energy)\n70% protection (2/3 energy)\n90% protection (3/3 energy)";
+"BattleItemRank02" = "50% heal (1/3 energy)\n75% heal (2/3 energy)\n100% heal (3/3 energy)";
+"BattleItemRank03" = "25% damage (1/3 energy)\n50% damage (2/3 energy)\n75% damage (3/3 energy)";
+"BattleItemRank03x" = "45% damage (1/3 energy)\n70% damage (2/3 energy)\n95% damage (3/3 energy)";
+"BattleItemRank04" = "+20% damage (1/3 energy)\n+40% damage (2/3 energy)\n+60% damage (3/3 energy)";
+"BattleItemRank05" = "+20% critical chance (1/3 energy)\n+50% critical chance (2/3 energy)\n+80% critical chance (3/3 energy)";
+"BattleItemRank06" = "10% reflection (1/3 energy)\n20% reflection (2/3 energy)\n30% reflection (3/3 energy)";
+"BattleItemRank07" = "Transmutes the field (1/3 energy)\nEscapes battle (2/3 energy)\nSummons a merchant (3/3 energy)";
+
+// Quest Menu
+"Emblems" = "Emblems:";
+"Leaderboard" = "Weekly Monster Hunt Friend Rankings";
+
+"EmblemMsg01" = "The Fire Emblem. This is the\nfirst Emblem of Destiny, used\nto unlock the Underground Lake.";
+"EmblemMsg02" = "The Ice Emblem. This is the\nsecond Emblem of Destiny, used\nto unlock the Forgotten Catacombs.";
+"EmblemMsg03" = "The Moon Emblem. This is the\nthird Emblem of Destiny, used\nto unlock the Temple of Old Ones.";
+"EmblemMsg04" = "The Sun Emblem. This is the\nfourth Emblem of Destiny, used\nto unlock the Sanctum of Destiny.";
+
+// Tavern Menu
+"Quests" = "Quests:";
+"TavernMsg" = "Welcome traveler. Want a pint from\nour finest brew? You could also help with\na few quests... the rewards will be nice.";
+"Brewery" = "Brewery Under Construction";
+
+"Reputation01" = "Reputation";
+"Reputation02" = "Reputation Rewards: -25% gold costs";
+"Reputation03" = "Reputation Rewards: -20% gold costs";
+"Reputation04" = "Reputation Rewards: -15% gold costs";
+"Reputation05" = "Reputation Rewards: -10% gold costs";
+"Reputation06" = "Reputation Rewards: -5% gold costs";
+"Reputation07" = "Reputation Rewards: +25% exp gains";
+"Reputation08" = "Reputation Rewards: +20% exp gains";
+"Reputation09" = "Reputation Rewards: +15% exp gains";
+"Reputation10" = "Reputation Rewards: +10% exp gains";
+"Reputation11" = "Reputation Rewards: +5% exp gains";
+
+"Quest01" = "Defeat 25 monsters: +100 Rep";
+"Quest02" = "Use a 3rd rank item: +15 Rep";
+"Quest03" = "Defeat 5 special monsters: +30 Rep";
+"Quest04" = "Defeat 15 monsters: +50 Rep";
+"Quest05" = "Perform 10 magic combos: +15 Rep";
+"Quest06" = "Defeat 3 boss monsters: +40 Rep";
+"Quest07" = "Gather 100 coins: +20 Rep";
+"Quest08" = "Magically attack 25 times: +15 Rep";
+"Quest09" = "Physically attack 25 times: +15 Rep";
+"Quest10" = "Use 5 battle items: +20 Rep";
+"Quest11" = "Slay a powerful dragon: +30 Rep";
+"Quest12" = "Heal 25 times: +15 Rep";
+
+// Shop Menu
+"ShopMerchant" = "Merchant:";
+"MaxLevel" = "Max Level";
+
+"ShopName01" = "Rejuvenation ( %d / 3 )";
+"ShopName02" = "Greed ( %d / 3 )";
+"ShopName03" = "Ancient Wisdom ( %d / 3 )";
+"ShopName04" = "Adrenaline ( %d / 3 )";
+"ShopName05" = "Berserk ( %d / 3 )";
+"ShopName06" = "Elemental Mastery ( %d / 3 )";
+"ShopName07" = "Unbroken Will ( %d / 3 )";
+"ShopName08" = "Eternal Hymn ( %d / 3 )";
+"ShopName09" = "Curse ( %d / 3 )";
+
+"ShopAbilityName01" = "Rejuvenation";
+"ShopAbilityName02" = "Greed";
+"ShopAbilityName03" = "Ancient Wisdom";
+"ShopAbilityName04" = "Adrenaline";
+"ShopAbilityName05" = "Berserk";
+"ShopAbilityName06" = "Elemental Mastery";
+"ShopAbilityName07" = "Unbroken Will";
+"ShopAbilityName08" = "Eternal Hymn";
+"ShopAbilityName09" = "Curse";
+
+"ShopAbility01" = "Extra healing from hearts (up to lvl %d)";
+"ShopAbility02" = "Coins worth extra gold (up to lvl %d)";
+"ShopAbility03" = "Extra exp from monsters (up to lvl %d)";
+"ShopAbility04" = "Double energy gain chance (up to lvl %d)";
+"ShopAbility05" = "Extra physical damage (up to lvl %d)";
+"ShopAbility06" = "Extra magical damage (up to lvl %d)";
+"ShopAbility07" = "Extra damage resistance (up to lvl %d)";
+"ShopAbility08" = "Recover HP every turn (up to lvl %d)";
+"ShopAbility09" = "Enemy loses HP every turn (up to lvl %d)";
+
+// Trainer Menu
+"Combat" = "Combat";
+"Survival" = "Survival";
+"Practical" = "Practical";
+
+"TrainerName01" = "Bloodlust:";
+"TrainerName02" = "Knowledge:";
+"TrainerName03" = "Revenge:";
+"TrainerName04" = "Vitality:";
+"TrainerName05" = "Endurance:";
+"TrainerName06" = "Recovery:";
+"TrainerName07" = "Explorer:";
+"TrainerName08" = "Learner:";
+"TrainerName09" = "Adept:";
+
+"TrainerSkillName01" = "Bloodlust";
+"TrainerSkillName02" = "Knowledge";
+"TrainerSkillName03" = "Revenge";
+"TrainerSkillName04" = "Vitality";
+"TrainerSkillName05" = "Endurance";
+"TrainerSkillName06" = "Recovery";
+"TrainerSkillName07" = "Explorer";
+"TrainerSkillName08" = "Learner";
+"TrainerSkillName09" = "Adept";
+
+"TrainerSkillInit01" = "Extra physical dmg";
+"TrainerSkillInit02" = "Extra magical dmg";
+"TrainerSkillInit03" = "Extra critical hits";
+"TrainerSkillInit04" = "Extra health points";
+"TrainerSkillInit05" = "Extra resistance";
+"TrainerSkillInit06" = "Extra critical heals";
+"TrainerSkillInit07" = "Extra gold from coins";
+"TrainerSkillInit08" = "Extra experience";
+"TrainerSkillInit09" = "Extra main stats";
+
+"TrainerSkill01" = "+%d%% physical dmg";
+"TrainerSkill02" = "+%d%% magical dmg";
+"TrainerSkill03" = "+%d%% critical hits";
+"TrainerSkill04" = "+%d health points";
+"TrainerSkill05" = "+%d%% dmg resistance";
+"TrainerSkill06" = "+%d%% critical heals";
+"TrainerSkill07" = "+%d%% extra gold";
+"TrainerSkill08" = "+%d%% extra exp";
+"TrainerSkill09" = "+%d to main stats";
+
+"TrainerUnlock01" = "Unlocks at level 20";
+"TrainerUnlock02" = "Unlocks at level 30";
+
+// Various
+"Help" = "Help";
+"Return" = "Return";
+"Options" = "Options";
+"ExitDungeon" = "Exit Dungeon";
+"ExitArena" = "Exit Arena";
+
+"PlayLabel" = "Play";
+"OnlineLabel" = "Online";
+"OptionsLabel" = "Options";
+"StoreLabel" = "Store";
+"StatsLabel" = "Stats";
+"ItemsLabel" = "Items";
+"QuestLabel" = "Quest";
+"TavernLabel" = "Tavern";
+"ShopLabel" = "Shop";
+"TrainerLabel" = "Trainer";
+
+"Support" = "Tip Jar";
+"Credits" = "Credits";
+"TurnMusicOff" = "Turn Music Off";
+"TurnMusicOn" = "Turn Music On";
+"TurnSoundOff" = "Turn Sound Off";
+"TurnSoundOn" = "Turn Sound On";
+"ResetGameData" = "Reset Game Data";
+
+"LevelOptionMsg" = "Would you like to play\nagainst opponents of a\nsimilar level or any level?";
+"AnyLevel" = "Any Level";
+"SimilarLevel" = "Similar Level";
+"ResetDataMsg" = "Are you sure you want to\nreset the game data?\n\nThe previous data will be\npermanently erased!";
+
+"Cancel" = "Cancel";
+"Confirm" = "Confirm";
+"NoGold" = "not enough coins";
+"Upgrade" = "Upgrade";
+"Learn" = "Learn";
+"Train" = "Train";
+"Buy" = "Buy";
+
+// Upgrading Stuff
+"UpgradeMsg01" = "Gold:";
+"UpgradeMsg02" = "WELCOME TO THE SHOP!";
+"UpgradeMsg03" = "TRAIN YOUR SKILLS!";
+"UpgradeMsg04" = "Cost:";
+"UpgradeMsg05" = "%d gold";
+"UpgradeMsg06" = "Requires Potion & Bomb";
+
+"UpgradeItem01" = "Increases your attack by %d";
+"UpgradeItem02" = "Increases your magic by %d";
+"UpgradeItem03" = "Increases your defence by %d";
+"UpgradeItem04" = "Increases your luck by %d";
+"UpgradeItem05" = "Increases your HP by %d";
+
+"UpgradeItem06" = "Can be used in battle to\nrestore your health points\nby a large amount.";
+"UpgradeItem07" = "Can be used in battle to explode the\nboard and damage your enemy. All\ntiles are randomised in the process.";
+"UpgradeItem08" = "Can be used in battle to raise your\npower while making you tipsy.";
+"UpgradeItem09" = "Can be used in battle to raise your\ncritical hit and heal chance.";
+"UpgradeItem10" = "Can be used in battle to reflect\ndamage back to your enemy.";
+"UpgradeItem11" = "Can be used in battle to activate\nvarious powerful effects.";
+
+"UpgradeItem12" = "Extra healing from hearts.\nAllows 5 additional purchases of\nthe item during a dungeon run.";
+"UpgradeItem13" = "Coins worth extra gold.\nAllows 5 additional purchases of\nthe item during a dungeon run.";
+"UpgradeItem14" = "Extra exp from monsters.\nAllows 5 additional purchases of\nthe item during a dungeon run.";
+"UpgradeItem15" = "Chance for double energy gains.\nAllows 5 additional purchases of\nthe item during a dungeon run.";
+"UpgradeItem16" = "Higher physical damage.\nAllows 5 additional purchases of\nthe item during a dungeon run.";
+"UpgradeItem17" = "Higher magical damage.\nAllows 5 additional purchases of\nthe item during a dungeon run.";
+"UpgradeItem18" = "Higher damage resistance.\nAllows 5 additional purchases of\nthe item during a dungeon run.";
+"UpgradeItem19" = "Health recovery per turn.\nAllows 5 additional purchases of\nthe item during a dungeon run.";
+"UpgradeItem20" = "Monsters get damaged every turn.\nAllows 5 additional purchases of\nthe item during a dungeon run.";
+
+"UpgradeItem21" = "to gain %d%% extra physical\ndamage against enemies";
+"UpgradeItem22" = "to gain %d%% extra magical\ndamage against enemies";
+"UpgradeItem23" = "to gain %d%% extra chance\nto critically hit an enemy";
+"UpgradeItem24" = "to gain %d extra health points";
+"UpgradeItem25" = "to gain %d%% extra resistance\nagainst enemy damage";
+"UpgradeItem26" = "to gain %d%% extra chance\nto critically heal";
+"UpgradeItem27" = "to gain %d%% extra gold in\nthe end of each dungeon run";
+"UpgradeItem28" = "to gain %d%% extra experience\nfrom each defeated monster";
+"UpgradeItem29" = "to gain %d extra points in\nattack, defence, magic and luck";
+
+// Help Messages
+"HelpPlay01" = "Here is a short summary of\nyour status: your name, selected\nclass and achieved level.";
+"HelpPlay02" = "Touching a button like this one will\ntake you to the battle screen. There\nyou can challenge powerful enemies\nand earn awesome rewards!";
+"HelpPlay03" = "Unlock new dungeons by obtaining\nthe Four Emblems of Destiny,\nsacred artifacts well hidden\nfrom adventurers like yourself.";
+"HelpPlay04" = "In the character menu you can\ncheck your stats and use your\nhard earned gold to buy deadly\nweapons and protective gear!";
+"HelpPlay05" = "In the town menu you can visit\nthe tavern to complete quests,\nupgrade the item buffs that you\ncan buy during a dungeon run,\nor learn long forgotten skills!";
+
+"HelpStats01" = "Touch this area to enter your name.\nYou can change your name anytime.";
+"HelpStats02" = "This is your Level. As you level\nup you will become more powerful,\nbut you will start encountering\nmore challenging monsters.";
+"HelpStats03" = "This is the Required Experience to\nlevel up. You can earn experience by\nkilling monsters inside dungeons.";
+"HelpStats04" = "These are your Health Points.\nThe more you have the longer\nwill take to die during combat.";
+"HelpStats05" = "This is your Attack. The higher\nthe value the more physical\ndamage you will deal to enemies.";
+"HelpStats06" = "This is your Defence. Raise\nthe value to be able to withstand\nmore powerful enemy attacks.";
+"HelpStats07" = "This is your Magic. The higher\nthe value the more magical\ndamage you will deal to enemies.";
+"HelpStats08" = "This is your Luck. It raises various\nstats such as the critical hit chance.";
+"HelpStats09" = "This is your current hero class.\nEach class has a different passive\nability that can enchance your\npowers in interesting ways.";
+"HelpStats10" = "These are all the available classes.\nYou can unlock more as you\nprogress through the dungeons.";
+"HelpStats11" = "This is your current class rank. It\nshows how proficient you are\nwith a class. Raise your ranks by\nusing various classes in combat.";
+"HelpStats12" = "This is your current class ability.\nAbilities are passive effects\nthat introduce new interesting\nstrategies to the gameplay.";
+"HelpStats13" = "These are statistics about your\nprogress. They include: total score,\nmax battle rounds, arena victories\nand total monsters killed.";
+
+"HelpInventory01" = "In this tab you can see your\navailable gold. You earn gold by\npicking coins inside dungeons\nand you can spend it to upgrade\nyour equipment or skills.";
+"HelpInventory02" = "Upgrade your weapon to increase\nyour Attack. This will raise the\nphysical damage you deal to\nyour enemies during combat.";
+"HelpInventory03" = "Upgrade your spellbook to increase\nyour Magic. This will raise the\nmagical damage you deal to\nyour enemies during combat.";
+"HelpInventory04" = "Upgrade your armor to increase\nyour Defence. This will raise your\nresistance to enemy damage.";
+"HelpInventory05" = "Upgrade your ring to increase\nyour Luck. This will raise various\nstats such as the chance for\ncritical hits and critical healing.";
+"HelpInventory06" = "Upgrade your amulet to increase\nyour HP. This will allow you\nto survive longer during battles.";
+"HelpInventory07" = "These are the three items you can\nuse to turn the tide of the battle:\nthe shield, the potion and the bomb.";
+"HelpInventory08" = "Swap these four items in the slots\nabove to use them instead of the\ninitially available items.";
+
+"HelpTavern01" = "Tavern is the local quest hub. You\ncan complete quests to increase\nyour reputation and earn awesome\nrewards such as lower costs to\nupgrade items and higher experience\ngains when defeating monsters.";
+"HelpTavern02" = "The available quests are chosen\nrandomly each time you visit the\ntavern. Beware though. Because\nyou enjoy (a bit too much) getting\ndrunk after a tavern night out,\nyou are not able to gain any\nexperience during questing.";
+
+"HelpShop01" = "In this menu you can spend gold\nto upgrade the shop's merchandise.\nDuring a dungeon run you will be\nable to meet merchants who sell a\nrandom set of the following items.";
+"HelpShop02" = "This is the merchant's level. The\nlevel goes up as you upgrade the\nmerchandise. The higher the\nlevel, the more powerful the\nitems the merchant sells become.";
+"HelpShop03" = "These are all the available items\nthat you can buy when you meet a\nmerchant during a dungeon run.\nThey can increase your character's\nstrength and potential to survive\n for longer. These buffs, though,\nlast only until you get defeated.";
+
+"HelpTrainer01" = "In this menu you can spend your\ngold to learn or upgrade skills and\nraise your power to new heights!\nThere are three categories of skills:\nCombat, Survival and Practical.";
+"HelpTrainer02" = "Combat skills raise your offensive\npower and help you deal more\ndamage to your enemies.";
+"HelpTrainer03" = "Survival skills allow you to\nwithstand more powerful enemy\nattacks and live to die another day.";
+"HelpTrainer04" = "Practical skills are quite useful\nas they help you progress\nthrough the game faster.";
+
+"HelpBattle01" = "Your health bar. The damage you\nget is reflected here. When your\nlife gets to 0 you lose the battle.";
+"HelpBattle02" = "Your enemy's health bar. If\nyour opponent's life gets to 0\nyou will win the battle!";
+"HelpBattle03" = "Touching your (or your enemy's)\nhealth bar will display various\ncombat stats and information!";
+"HelpBattle04" = "Your exp bar. With each monster\nyou slay the bar fills. When it\ngets full you level up and you\nbecome much more powerful!";
+"HelpBattle05" = "Your energy bar. With each turn\nthe bar slowly fills allowing\nyou to use special items that can\nchange the tide of the battle.";
+"HelpBattle06" = "This is the game board. You have\nto match 3 or more objects of\nthe same type in order to\nattack, heal or gather coins.";
+"HelpBattle07" = "You can match similar objects in\nany direction: up, down, right,\nleft or even diagonally!";
+"HelpBattle08" = "Matching 3 or more swords allows\nyou to physically attack the enemy.\nPhysical attacks have a small\nchance to cause a critical hit.";
+"HelpBattle09" = "Matching 3 or more magic spells\nallows you to magically attack\nthe enemy. If you match 2 (or more)\nfire and 2 (or more) ice spells\nyou deal extra damage.";
+"HelpBattle10" = "Collecting hearts allows you to\nreplenish your life! You should not\nforget to heal when you have low\nhealth to survive the battle.";
+"HelpBattle11" = "Gathering coins allows you to\ngain enough gold to buy or upgrade\nitems and skills outside of battle.";
+"HelpBattle12" = "These are the special items you can\nuse during battle. E.g., the shield\nprotects you for a number of\nbattle turns. You can unlock\nnew items in the inventory menu.";
+
+// IAP Messages
+"BecomeAwesome" = "Lootstore of Awesomeness";
+"UnlockMsg01" = "Unlock All Dungeons";
+"UnlockMsg02" = "Unlock Hero Shield";
+"UnlockMsg03" = "Unlock Battle-Items";
+"UnlockMsg04" = "Gain Double Coins";
+"UnlockMsg05" = "Special Dungeon #01";
+"BuyGold01" = "Bag of Gold";
+"BuyGold02" = "Chest of Gold";
+"BuyGold03" = "Big Chest of Gold";
+"BuyGold04" = "Huge Chest of Gold";
+"BuyGold05" = "Pirate's Treasure";
+"nextPage" = "--- Next Page ---";
+
+"SupportTheDeveloper" = "Support the Developer";
+"TipMsg01" = "Small Tip";
+"TipMsg02" = "Great Tip";
+"TipMsg03" = "Awesome Tip";
+"TipMsg04" = "Outstanding Tip";
+"TipMsg05" = "Legendary Tip";
+"ExitTipJar" = "Exit";
+"TipNope" = "Nope";
+"TipSure" = "Sure!";
+"UpgradeWorths" = "%@\n\nUpgrade worths %@.";
+"TipWorths" = "%@\n\nTip worths %@.";
+
+// Upper Bar Messages
+"UpperBarMsg01" = "ENJOYING THE GAME? PLEASE GIVE IT A RATE!";
+"UpperBarMsg02" = "ENJOYING THE GAME? WHY NOT REVIEW IT?";
+"UpperBarMsg03" = "NEW FEATURES COMING SOON - STAY TUNED!";
+"UpperBarMsg04" = "IT IS A FINE DAY FOR KILLING MONSTERS!";
+"UpperBarMsg05" = "WHAT DO YOU THINK ABOUT THE MUSIC?";
+"UpperBarMsg06" = "HOPE YOU ARE ENJOYING YOURSELF!";
+"UpperBarMsg07" = "YOU ARE SUCH AN AWESOME PLAYER!";
+"UpperBarMsg08" = "THANK YOU FOR SUPPORTING THIS GAME!";
+
+// Credits
+"Credits01" = "Pantazis Deligiannis";
+"Credits02" = "Game Design, Programming\nand Graphics by";
+"Credits03" = "Extra Design: Anastasios Deligiannis\nMusic by Nick Triantafillidis\n\nSpecial awesome thanks to\nthe Toucharcade community\nfor their invaluable support!";
+"Credits04" = "Finally, a big thanks to\nYOU\nfor playing this game!";

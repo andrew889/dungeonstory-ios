@@ -1,0 +1,716 @@
+//
+//  Localizable.strings
+//  DungeonStory
+//
+//  Created by Pantazis Deligiannis on 02/11/2012.
+//  Copyright Pantazis Deligiannis 2012-2014. All rights reserved.
+//
+
+/* Traditional Chinese Localisation */
+
+"LANGUAGE" = "CHINESE";
+
+// Character Related
+"HeroClass01" = "冒險家";
+"HeroClass02" = "騎士";
+"HeroClass03" = "法師";
+"HeroClass04" = "術士";
+"HeroClass05" = "盜賊";
+"HeroClass06" = "吟游詩人";
+"HeroClass07" = "刺客";
+"HeroClass08" = "工匠";
+"HeroClass09" = "龍騎士";
+
+"HeroRank01" = "菜鳥";
+"HeroRank02" = "專家";
+"HeroRank03" = "高手";
+"HeroRank04" = "大師";
+"HeroRank05" = "天師";
+
+"UpperMsgNoName" = "神秘的 %@";
+"UpperMsgName" = "%@ 、%@";
+"UpperMsgLevel" = "等級 %d";
+
+// Enemy related
+"Merchant" = "商人";
+
+"EnemyName101" = "骷髏";
+"EnemyName102" = "兇殘骷髏";
+"EnemyName103" = "劊子手";
+"EnemyName104" = "僵屍";
+"EnemyName105" = "食屍鬼";
+"EnemyName106" = "嗜血騎士";
+"EnemyName107" = "狼";
+"EnemyName108" = "恐懼之狼";
+"EnemyName109" = "食腐獸";
+"EnemyName110" = "幽靈";
+"EnemyName111" = "死靈";
+"EnemyName112" = "牛頭怪";
+"EnemyName113" = "石像鬼";
+"EnemyName114" = "雙足飛龍";
+"EnemyName115" = "惡龍";
+
+"EnemyName201" = "哥布林";
+"EnemyName202" = "小妖";
+"EnemyName203" = "死亡行者";
+"EnemyName204" = "湖泊僵屍";
+"EnemyName205" = "寄生魔";
+"EnemyName206" = "深海怪獸";
+"EnemyName207" = "巨鼠";
+"EnemyName208" = "食人魚";
+"EnemyName209" = "九頭蛇";
+"EnemyName210" = "小精靈";
+"EnemyName211" = "湖泊女巫";
+"EnemyName212" = "美杜莎";
+"EnemyName213" = "蠑螈怪";
+"EnemyName214" = "幽藍之龍";
+"EnemyName215" = "冰霜之龍";
+
+"EnemyName301" = "囚徒";
+"EnemyName302" = "殺人犯";
+"EnemyName303" = "獨眼巨人";
+"EnemyName304" = "食人魔";
+"EnemyName305" = "巨型螞蟥";
+"EnemyName306" = "食人魔王";
+"EnemyName307" = "狼人";
+"EnemyName308" = "蜘蛛女皇";
+"EnemyName309" = "暴龍";
+"EnemyName310" = "獸人";
+"EnemyName311" = "女妖";
+"EnemyName312" = "憎惡之魔";
+"EnemyName313" = "獅蠍怪";
+"EnemyName314" = "赤豔之龍";
+"EnemyName315" = "暗黑之龍";
+
+"EnemyName401" = "林中惡鬼";
+"EnemyName402" = "斯庫拉";
+"EnemyName403" = "針鼴";
+"EnemyName404" = "巫師";
+"EnemyName405" = "黑暗教士";
+"EnemyName406" = "吞食者";
+"EnemyName407" = "蛇怪";
+"EnemyName408" = "獨眼怪";
+"EnemyName409" = "探路鬼";
+"EnemyName410" = "吸血鬼";
+"EnemyName411" = "瑪士撒拉";
+"EnemyName412" = "不死怪";
+"EnemyName413" = "僵屍之龍";
+"EnemyName414" = "幽靈之龍";
+"EnemyName415" = "死亡之龍";
+
+"EnemyName501" = "狂暴戰士";
+"EnemyName502" = "地巨人";
+"EnemyName503" = "黑暗魔王";
+"EnemyName504" = "屠宰者";
+"EnemyName505" = "奪心魔";
+"EnemyName506" = "戰爭巨魔";
+"EnemyName507" = "巨獸";
+"EnemyName508" = "凱米拉";
+"EnemyName509" = "斯芬克司";
+"EnemyName510" = "守護之魔";
+"EnemyName511" = "墮落天使";
+"EnemyName512" = "末日魔怪";
+"EnemyName513" = "寶石之龍";
+"EnemyName514" = "混亂之龍";
+"EnemyName515" = "多頭妖龍";
+
+"EnemyAbility01" = "\"無特殊技能\"";
+"EnemyAbility02" = "\"售賣隨機物品\"";
+"EnemyAbility03" = "\"能使戰場遍地黃金\"";
+"EnemyAbility04" = "\"給你額外的經驗值\"";
+"EnemyAbility05" = "\"能通過黑暗能量恢復生命值\"";
+"EnemyAbility06" = "\"能掘取你的生命值來治療自己\"";
+"EnemyAbility07" = "\"能連續發動兩次進攻\"";
+"EnemyAbility08" = "\"身上有毒\"";
+"EnemyAbility09" = "\"能用龍火攻擊你\"";
+"EnemyAbility10" = "\"具有非凡的物理防禦\"";
+"EnemyAbility11" = "\"具有非凡的魔法防禦\"";
+"EnemyAbility12" = "\"能夠吸取你的能量值\"";
+"EnemyAbility13" = "\"凍結時間，使你無法獲取能量\"";
+"EnemyAbility14" = "\"能用強大的攻擊使你暈厥\"";
+"EnemyAbility15" = "\"能讓你的炸彈失效\"";
+"EnemyAbility16" = "\"能使你失去治療的能力\"";
+"EnemyAbility17" = "\"能致盲，降低你的命中率\"";
+"EnemyAbility18" = "\"能將你攻擊的一半傷害反彈回你\"";
+"EnemyAbility19" = "\"釋放能摧毀一切的地震\"";
+"EnemyAbility20" = "\"每回合將你傳送至一個新的地點\"";
+"EnemyAbility21" = "\"能隨機地將心形圖塊變成金幣\"";
+"EnemyAbility22" = "\"增加雙方的攻擊值\"";
+
+// Battle Menu
+"TouchDmg" = "%d 傷害";
+"TouchLife" = "%d 生命";
+"TouchGold" = "%d 金幣";
+
+"BattleClass" = "等級：";
+"BattleAttack" = "攻擊：";
+"BattleDefence" = "防禦：";
+"BattleMagic" = "魔法：";
+"BattleLuck" = "幸運：";
+"BattleStatus" = "狀態：";
+"MonsterPower" = "能量：";
+"MonsterExp" = "經驗：";
+"MonsterGold" = "金幣：";
+
+"BattleStatus01" = "普通";
+"BattleStatus02" = "保護";
+"BattleStatus03" = "微醉";
+"BattleStatus04" = "加強";
+"BattleStatus05" = "反彈";
+"BattleStatus06" = "中毒";
+"BattleStatus07" = "昏厥";
+"BattleStatus08" = "失明";
+
+"BattleShopName01" = "生命藥劑";
+"BattleShopName02" = "貪婪";
+"BattleShopName03" = "上古智慧";
+"BattleShopName04" = "腎上腺素";
+"BattleShopName05" = "狂暴";
+"BattleShopName06" = "元素魔法";
+"BattleShopName07" = "不屈不撓";
+"BattleShopName08" = "永恆聖歌";
+"BattleShopName09" = "詛咒";
+
+"BattleShopAbility01" = "從心形圖塊獲得額外治療 - %d%%";
+"BattleShopAbility02" = "金幣變得更值錢了 - %dx";
+"BattleShopAbility03" = "從怪物那裡獲得額外經驗 - %d%%";
+"BattleShopAbility04" = "有機會獲得雙倍能量 - %d%%";
+"BattleShopAbility05" = "額外的物理攻擊 - %d%%";
+"BattleShopAbility06" = "額外的魔法攻擊 - %d%%";
+"BattleShopAbility07" = "額外的傷害防禦 - %d%%";
+"BattleShopAbility08" = "每回合恢復生命 - %d%%";
+"BattleShopAbility09" = "每回合敵人減少生命 - %d%%";
+
+"BattleAbilityLevel" = "等級 %d";
+
+"MerchantMsg01" = "歡迎來到我的小店！";
+"MerchantMsg02" = "你想要買什麼？";
+"MerchantMsg03" = "離開商店？";
+
+"MerchantAbility01" = "生命藥劑 - 最高等級\n從心形圖塊獲得額外治療。";
+"MerchantAbility01x" = "生命藥劑 - 最高等級\n從心形圖塊獲得額外治療。 消耗: %d 金幣";
+"MerchantAbility01xx" = "生命藥劑 - %d\n從心形圖塊獲得額外治療。 消耗: %d 金幣";
+"MerchantAbility02" = "貪婪 - 最高等級\n金幣變得更值錢了。";
+"MerchantAbility02x" = "貪婪 - 最高等級\n金幣變得更值錢了。 消耗: %d 金幣";
+"MerchantAbility02xx" = "貪婪 - %d\n金幣變得更值錢了。 消耗: %d 金幣";
+"MerchantAbility03" = "上古智慧 - 最高等級\n從怪物那裡獲得額外經驗。";
+"MerchantAbility03x" = "上古智慧 - 最高等級\n從怪物那裡獲得額外經驗。 消耗: %d 金幣";
+"MerchantAbility03xx" = "上古智慧 - %d\n從怪物那裡獲得額外經驗。 消耗: %d 金幣";
+"MerchantAbility04" = "腎上腺素 - 最高等級\n有機會獲得雙倍能量。";
+"MerchantAbility04x" = "腎上腺素 - 最高等級\n有機會獲得雙倍能量。 消耗: %d 金幣";
+"MerchantAbility04xx" = "腎上腺素 - %d\n有機會獲得雙倍能量。 消耗: %d 金幣";
+"MerchantAbility05" = "狂暴 - 最高等級\n額外的物理攻擊。";
+"MerchantAbility05x" = "狂暴 - 最高等級\n額外的物理攻擊。 消耗: %d 金幣";
+"MerchantAbility05xx" = "狂暴 - %d\n額外的物理攻擊。 消耗: %d 金幣";
+"MerchantAbility06" = "元素魔法 - 最高等級\n額外的魔法攻擊。";
+"MerchantAbility06x" = "元素魔法 - 最高等級\n額外的魔法攻擊。 消耗: %d 金幣";
+"MerchantAbility06xx" = "元素魔法 - %d\n額外的魔法攻擊。 消耗: %d 金幣";
+"MerchantAbility07" = "不屈不撓 - 最高等級\n額外的傷害防禦。";
+"MerchantAbility07x" = "不屈不撓 - 最高等級\n額外的傷害防禦。 消耗: %d 金幣";
+"MerchantAbility07xx" = "不屈不撓 - %d\n額外的傷害防禦。 消耗: %d 金幣";
+"MerchantAbility08" = "永恆聖歌 - 最高等級\n每回合恢復生命。";
+"MerchantAbility08x" = "永恆聖歌 - 最高等級\n每回合恢復生命。 消耗: %d 金幣";
+"MerchantAbility08xx" = "永恆聖歌 - %d\n每回合恢復生命。 消耗: %d 金幣";
+"MerchantAbility09" = "詛咒 - 最高等級\n每回合敵人減少生命。";
+"MerchantAbility09x" = "詛咒 - 最高等級\n每回合敵人減少生命。 消耗: %d 金幣";
+"MerchantAbility09xx" = "詛咒 - %d\n每回合敵人減少生命。 消耗: %d 金幣";
+
+"DefeatMsg01" = "總  分:";
+"DefeatMsg02" = "冒險次數:";
+"DefeatMsg03" = "獲取金幣:";
+"DefeatMsg04" = "殺死怪物:";
+"DefeatMsg05" = "獲取經驗:";
+
+// Battle Events
+"AttackMissed" = "未命中!";
+"MonsterAttacks01" = "怪物攻擊造成";
+"MonsterAttacks02" = "傷害";
+"MonsterAttacks03" = "敵人攻擊造成";
+
+"WaitingOpponent" = "等待對方行動";
+
+"ArenaAttack01" = "敵人自愈了";
+"ArenaAttack02" = "生命值";
+"ArenaAttack03" = "傷害";
+
+"ArenaAbility01" = "敵人撿走了一些金幣";
+"ArenaAbility02" = "敵人使用超級盾牆";
+"ArenaAbility03" = "敵人使用盾牆";
+"ArenaAbility04" = "敵人服用生命藥劑";
+"ArenaAbility05" = "敵人使用超級炸彈";
+"ArenaAbility06" = "敵人使用炸彈";
+"ArenaAbility07" = "敵人使用龍釀酒";
+"ArenaAbility08" = "敵人使用詩歌";
+"ArenaAbility09" = "敵人使用魔鏡";
+"ArenaAbility10" = "敵人使用長笛";
+
+"EventLevelUp" = "升級了!";
+"EventNewClasses" = "新英雄類型解鎖!";
+"EventHeroShield" = "你裝備了英雄之盾!";
+"EventNewDungeon" = "新的地下城解鎖!";
+"EventMerchant" = "商人來了";
+"EventBoss" = "決戰老怪";
+"EventSpecial" = "特殊怪物出現";
+"EventMonster" = "新怪物出現";
+
+"EventAbilityTransmutation" = "所有心形圖塊變成金幣!";
+"EventAbilityGold" = "戰場遍地黃金!";
+"EventAbilityEarthquake" = "地震毀滅了戰場!";
+"EventAbilityBlind" = "攻擊正中眉心，你雙目失明!";
+"EventAbilityConfusion" = "你被擊中頭部而昏厥!";
+"EventAbilityNegateEnergy" = "怪物吸取了你的能量!";
+"EventAbilityDragonFire" = "怪物使用龍火攻擊!";
+"EventAbilityPoison" = "你中毒了，將持續三回合!";
+"EventAbilityDoubleStrike" = "怪物再次發動攻擊!";
+"EventAbilityDrainLife" = "怪物耗盡了你的生命!";
+"EventAbilityHeal" = "怪物使用黑暗能量自愈!";
+
+// Pause Menu
+"HeroLevel" = "英雄等級:";
+"ExpLevel" = "升級需要經驗:";
+"GatheredCoins" = "獲取金幣:";
+"BattleRound" = "戰鬥回合:";
+"EnemyLevel" = "敵人等級:";
+"ArenaVictories" = "競技場勝利次數:";
+
+// Menu Buttons
+"HeroMenu" = "英雄";
+"TownMenu" = "城鎮";
+
+"Dungeon01" = "血色地牢";
+"Dungeon02" = "地下湖泊";
+"Dungeon03" = "失落墓穴";
+"Dungeon04" = "上古神廟";
+"Dungeon05" = "命運密室";
+"Dungeon06" = "瘋狂領地";
+
+"Arena" = "競技場";
+"ComingSoon" = "即將到來";
+
+// Stats Menu
+"StatsName" = "名字:";
+"StatsLevel" = "等級:";
+"StatsExp" = "需要經驗:";
+"StatsHp" = "生命:";
+"StatsAttack" = "攻擊:";
+"StatsDefence" = "防禦:";
+"StatsMagic" = "魔法:";
+"StatsLuck" = "幸運:";
+"StatsClass" = "英雄類型:";
+"StatsRank" = "地位:";
+"StatsScore" = "總分:";
+"StatsArena" = "競技場勝利次數:";
+"StatsMonsters" = "殺死怪物:";
+"StatsRounds" = "最多戰鬥局數:";
+
+"NameTouchHere" = "[點擊這裡]";
+
+"ClassAbilityName01" = "賞金獵人:";
+"ClassAbilityName02" = "天下第一盾:";
+"ClassAbilityName03" = "秘之霸權:";
+"ClassAbilityName04" = "命運之變:";
+"ClassAbilityName05" = "鬼祟一擊:";
+"ClassAbilityName06" = "英雄頌歌:";
+"ClassAbilityName07" = "宿命擊殺:";
+"ClassAbilityName08" = "工程學技藝:";
+"ClassAbilityName09" = "神之庇佑:";
+
+"ClassAbility01" = "能從地下城找到額外的金幣";
+"ClassAbility02" = "盾牌能抵抗兩次額外的敵人攻擊";
+"ClassAbility03" = "連接3個冰和火的圖塊來施放額外魔法傷害";
+"ClassAbility04" = "收集金幣將有機會恢復你的生命值";
+"ClassAbility05" = "物理攻擊將能竊取敵人的金幣";
+"ClassAbility06" = "提高大規模回血的機會";
+"ClassAbility07" = "致命攻擊將更容易被激發";
+"ClassAbility08" = "炸彈將給敵人帶來更大傷害";
+"ClassAbility09" = "敵人將更難殺死你";
+
+// Items Menu
+"ItemCounter" = "道具:";
+"GoldCounter" = "金幣:";
+
+"ItemWeapon" = "武器:";
+"ItemSpellbook" = "符咒書:";
+"ItemArmor" = "盔甲:";
+"ItemRing" = "戒指:";
+"ItemAmulet" = "護身符:";
+
+"ItemEmpty" = "空";
+
+"Weapon01" = "銅劍";
+"Weapon02" = "長劍";
+"Weapon03" = "銀劍";
+"Weapon04" = "烈炎劍";
+"Weapon05" = "伏魔刀";
+"Weapon06" = "屠龍刀";
+"Weapon07" = "倚天劍";
+"Weapon08" = "死亡利刃";
+"Weapon09" = "獅心大刀";
+"Weapon10" = "亞瑟神劍";
+
+"Spellbook01" = "古書";
+"Spellbook02" = "遺忘之書";
+"Spellbook03" = "不朽之書";
+"Spellbook04" = "毀滅之書";
+"Spellbook05" = "冰火之書";
+"Spellbook06" = "墮落英雄之書";
+"Spellbook07" = "魔法大全";
+"Spellbook08" = "密語之書";
+"Spellbook09" = "黑暗秘密之書";
+"Spellbook10" = "命運之書";
+
+"Armor01" = "布衣";
+"Armor02" = "皮甲";
+"Armor03" = "鐵甲";
+"Armor04" = "銀甲";
+"Armor05" = "金甲";
+"Armor06" = "墮落鎧甲";
+"Armor07" = "光明盔甲";
+"Armor08" = "龍之戰盔";
+"Armor09" = "正義鎧甲";
+"Armor10" = "英雄戰甲";
+
+"Ring01" = "暗黑之戒";
+"Ring02" = "權力之戒";
+"Ring03" = "勝利之戒";
+"Ring04" = "不死封印";
+"Ring05" = "未名之戒";
+"Ring06" = "恐怖戒指";
+"Ring07" = "光明希望";
+"Ring08" = "天煞孤星";
+"Ring09" = "生死同盟";
+"Ring10" = "英雄密石";
+
+"Amulet01" = "靈符";
+"Amulet02" = "魔力靈符";
+"Amulet03" = "戰爭徽章";
+"Amulet04" = "天佑符咒";
+"Amulet05" = "巫師之眼";
+"Amulet06" = "暗月符咒";
+"Amulet07" = "暮光符咒";
+"Amulet08" = "龍火護符";
+"Amulet09" = "時之紋章";
+"Amulet10" = "英雄聖牌";
+
+"BattleItemName02" = "生命藥劑";
+"BattleItemName03" = "海盜炸彈";
+"BattleItemName04" = "龍釀美酒";
+"BattleItemName05" = "北海聖詩";
+"BattleItemName06" = "命運之鏡";
+"BattleItemName07" = "上古長笛";
+
+"BattleItem01" = "消耗能量，\n在一定數量的戰鬥\n回合中保護你";
+"BattleItem02" = "消耗能量，\n根據你的物品屬性大量\n恢復你的生命值";
+"BattleItem03" = "消耗能量，\n引發爆炸傷害敵人。\n所有圖塊都將打亂";
+"BattleItem04" = "消耗能量，\n在一定數量的戰鬥回合\n中增加物理及魔法攻擊";
+"BattleItem05" = "消耗能量，\n在一定數量的戰鬥回合中增加\n致命一擊及大量補血的機會";
+"BattleItem06" = "消耗能量，\n在一定數量的戰鬥回合\n中將傷害反彈給敵人";
+"BattleItem07" = "消耗能量，\n根據你的物品屬性展現出\n大量驚人的特殊技能";
+
+"BattleItemRank01" = "30% 保護 (1/3 能量)\n50% 保護 (2/3 能量)\n70% 保護 (3/3 能量)";
+"BattleItemRank01x" = "50% 保護 (1/3 能量)\n70% 保護 (2/3 能量)\n90% 保護 (3/3 能量)";
+"BattleItemRank02" = "50% 治療 (1/3 能量)\n75% 治療 (2/3 能量)\n100% 治療 (3/3 能量)";
+"BattleItemRank03" = "25% 傷害 (1/3 能量)\n50% 傷害 (2/3 能量)\n75% 傷害 (3/3 能量)";
+"BattleItemRank03x" = "45% 傷害 (1/3 能量)\n70% 傷害 (2/3 能量)\n95% 傷害 (3/3 能量)";
+"BattleItemRank04" = "+20% 傷害 (1/3 能量)\n+40% 傷害 (2/3 能量)\n+60% 傷害 (3/3 能量)";
+"BattleItemRank05" = "+20% 致命機率 (1/3 能量)\n+50% 致命機率 (2/3 能量)\n+80% 致命機率 (3/3 能量)";
+"BattleItemRank06" = "10% 反彈 (1/3 能量)\n20% 反彈 (2/3 能量)\n30% 反彈 (3/3 能量)";
+"BattleItemRank07" = "變幻戰場 (1/3 能量)\n逃離戰局 (2/3 能量)\n召喚商人 (3/3 能量)";
+
+// Quest Menu
+"Emblems" = "徽章:";
+"Leaderboard" = "好友每週擊殺怪物排行";
+
+"EmblemMsg01" = "火焰徽章。 \n這是第一個命運徽章，\n用於解鎖“地下湖泊”關卡。";
+"EmblemMsg02" = "寒冰徽章。 \n這是第二個命運徽章，\n用於解鎖“失落墓穴”關卡。";
+"EmblemMsg03" = "月亮徽章。 \n這是第三個命運徽章，\n用於解鎖“上古神廟”關卡。";
+"EmblemMsg04" = "太陽徽章。 \n這是第四個命運徽章，\n用於解鎖“命運密室”關卡。";
+
+// Tavern Menu
+"Quests" = "酒館:";
+"TavernMsg" = "你好，客人。想來杯本店新釀的好酒嗎？\n你也可以來接一些任務……\n獎賞可是很豐厚的。";
+"Brewery" = "酒窖正在建設中...";
+
+"Reputation01" = "榮譽";
+"Reputation02" = "榮譽獎勵： -25% 金幣消耗";
+"Reputation03" = "榮譽獎勵： -20% 金幣消耗";
+"Reputation04" = "榮譽獎勵： -15% 金幣消耗";
+"Reputation05" = "榮譽獎勵： -10% 金幣消耗";
+"Reputation06" = "榮譽獎勵： -5% 金幣消耗";
+"Reputation07" = "榮譽獎勵： +25% 經驗獲取";
+"Reputation08" = "榮譽獎勵： +20% 經驗獲取";
+"Reputation09" = "榮譽獎勵： +15% 經驗獲取";
+"Reputation10" = "榮譽獎勵： +10% 經驗獲取";
+"Reputation11" = "榮譽獎勵： +5% 經驗獲取";
+
+"Quest01" = "擊敗 25 個怪物： +100 榮譽";
+"Quest02" = "使用一個3級的道具： +15 榮譽";
+"Quest03" = "擊敗 5 個特殊怪物： +30 榮譽";
+"Quest04" = "擊敗 15 個怪物： +50 榮譽";
+"Quest05" = "實現 10 次連擊： +15 榮譽";
+"Quest06" = "擊敗 3 個老怪： +40 榮譽";
+"Quest07" = "收集 100 個金幣： +20 榮譽";
+"Quest08" = "魔法攻擊 25 次： +15 榮譽";
+"Quest09" = "物理攻擊 25 次： +15 榮譽";
+"Quest10" = "使用 5 次戰鬥道具： +20 榮譽";
+"Quest11" = "殺掉一隻強大的龍： +30 榮譽";
+"Quest12" = "自愈 25 次： +15 榮譽";
+
+// Shop Menu
+"ShopMerchant" = "商人:";
+"MaxLevel" = "最高等級";
+
+"ShopName01" = "生命藥劑 ( %d / 3 )";
+"ShopName02" = "貪婪 ( %d / 3 )";
+"ShopName03" = "上古智慧 ( %d / 3 )";
+"ShopName04" = "腎上腺素 ( %d / 3 )";
+"ShopName05" = "狂暴 ( %d / 3 )";
+"ShopName06" = "元素魔法 ( %d / 3 )";
+"ShopName07" = "不屈不撓 ( %d / 3 )";
+"ShopName08" = "永恆聖歌 ( %d / 3 )";
+"ShopName09" = "詛咒 ( %d / 3 )";
+
+"ShopAbilityName01" = "生命藥劑";
+"ShopAbilityName02" = "貪婪";
+"ShopAbilityName03" = "上古智慧";
+"ShopAbilityName04" = "腎上腺素";
+"ShopAbilityName05" = "狂暴";
+"ShopAbilityName06" = "元素魔法";
+"ShopAbilityName07" = "不屈不撓";
+"ShopAbilityName08" = "永恆聖歌";
+"ShopAbilityName09" = "詛咒";
+
+"ShopAbility01" = "從心形圖塊獲得額外治療 (最高等級 %d)";
+"ShopAbility02" = "金幣變得更值錢了 (最高等級 %d)";
+"ShopAbility03" = "從怪物那裡獲得額外經驗 (最高等級 %d)";
+"ShopAbility04" = "有機會獲得雙倍能量 (最高等級 %d)";
+"ShopAbility05" = "額外的物理攻擊 最高等級 %d)";
+"ShopAbility06" = "額外的魔法攻擊 (最高等級 %d)";
+"ShopAbility07" = "額外的傷害防禦 (最高等級 %d)";
+"ShopAbility08" = "每回合恢復生命 (最高等級 %d)";
+"ShopAbility09" = "每回合敵人減少生命 (最高等級 %d)";
+
+// Trainer Menu
+"Combat" = "戰鬥";
+"Survival" = "生存";
+"Practical" = "實用";
+
+"TrainerName01" = "嗜血:";
+"TrainerName02" = "知識:";
+"TrainerName03" = "復仇:";
+"TrainerName04" = "活力:";
+"TrainerName05" = "耐力:";
+"TrainerName06" = "癒合:";
+"TrainerName07" = "探險家:";
+"TrainerName08" = "學習者:";
+"TrainerName09" = "專家:";
+
+"TrainerSkillName01" = "嗜血";
+"TrainerSkillName02" = "知識";
+"TrainerSkillName03" = "復仇";
+"TrainerSkillName04" = "活力";
+"TrainerSkillName05" = "耐力";
+"TrainerSkillName06" = "癒合";
+"TrainerSkillName07" = "探險家";
+"TrainerSkillName08" = "學習者";
+"TrainerSkillName09" = "專家";
+
+"TrainerSkillInit01" = "額外物理傷害";
+"TrainerSkillInit02" = "額外魔法傷害";
+"TrainerSkillInit03" = "額外致命一擊";
+"TrainerSkillInit04" = "額外生命值";
+"TrainerSkillInit05" = "額外抵抗";
+"TrainerSkillInit06" = "額外大量回血";
+"TrainerSkillInit07" = "額外金幣";
+"TrainerSkillInit08" = "額外經驗";
+"TrainerSkillInit09" = "額外主屬性";
+
+"TrainerSkill01" = "+%d%% 物理傷害";
+"TrainerSkill02" = "+%d%% 魔法傷害";
+"TrainerSkill03" = "+%d%% 致命一擊";
+"TrainerSkill04" = "+%d 生命值";
+"TrainerSkill05" = "+%d%% 傷害防禦";
+"TrainerSkill06" = "+%d%% 大量回血";
+"TrainerSkill07" = "+%d%% 額外金幣";
+"TrainerSkill08" = "+%d%% 額外經驗";
+"TrainerSkill09" = "+%d 到主屬性";
+
+"TrainerUnlock01" = "將解鎖於等級 20";
+"TrainerUnlock02" = "將解鎖於等級 30";
+
+// Various
+"Help" = "幫助";
+"Return" = "返回";
+"Options" = "選項";
+"ExitDungeon" = "退出地下城";
+"ExitArena" = "退出競技場";
+
+"PlayLabel" = "開始";
+"OnlineLabel" = "聯網";
+"OptionsLabel" = "選項";
+"StoreLabel" = "商店";
+"StatsLabel" = "屬性";
+"ItemsLabel" = "道具";
+"QuestLabel" = "任務";
+"TavernLabel" = "酒館";
+"ShopLabel" = "商店";
+"TrainerLabel" = "教官";
+
+"Support" = "秘笈罐子";
+"Credits" = "製作組";
+"TurnMusicOff" = "關閉音樂";
+"TurnMusicOn" = "打開音樂";
+"TurnSoundOff" = "關閉聲音";
+"TurnSoundOn" = "打開聲音";
+"ResetGameData" = "重置遊戲數據";
+
+"LevelOptionMsg" = "你想和相似級別還是\n任意級別的玩家對戰？";
+"AnyLevel" = "任意級別";
+"SimilarLevel" = "相似級別";
+"ResetDataMsg" = "你確定要清除所有\n遊戲資料嗎？\n之前的資料將被\n永久地抹去！";
+
+"Cancel" = "取消";
+"Confirm" = "確定";
+"NoGold" = "金幣不足";
+"Upgrade" = "升級";
+"Learn" = "學習";
+"Train" = "訓練";
+"Buy" = "購買";
+
+// Upgrading Stuff
+"UpgradeMsg01" = "金幣:";
+"UpgradeMsg02" = "歡迎來商店!";
+"UpgradeMsg03" = "訓練你的技能!";
+"UpgradeMsg04" = "花費:";
+"UpgradeMsg05" = "%d 金幣";
+"UpgradeMsg06" = "需要藥劑和炸彈";
+
+"UpgradeItem01" = "增加攻擊點數 - %d";
+"UpgradeItem02" = "增加魔法點數 - %d";
+"UpgradeItem03" = "增加防禦點數 - %d";
+"UpgradeItem04" = "增加幸運點數 - %d";
+"UpgradeItem05" = "增加生命值 - %d";
+
+"UpgradeItem06" = "戰鬥中使用，\n恢復大量生命值。";
+"UpgradeItem07" = "戰鬥中使用，\n引發爆炸傷害敵人。\n所有圖塊都將打亂。";
+"UpgradeItem08" = "戰鬥中使用，\n在你微醉的同時提高你的能量。";
+"UpgradeItem09" = "戰鬥中使用，\n提高致命一擊和大量回血的機率。";
+"UpgradeItem10" = "戰鬥中使用，\n反彈傷害給你的敵人。";
+"UpgradeItem11" = "戰鬥中使用，\n啟動大量強大的效果。";
+
+"UpgradeItem12" = "從心形圖塊獲得額外治療，\n並允許在一次地下城歷險中獲得\n5次額外購物機會。";
+"UpgradeItem13" = "金幣更值錢了，\n並允許在一次地下城歷險中獲得\n5次額外購物機會。";
+"UpgradeItem14" = "從怪物那裡獲得額外經驗，\n並允許在一次地下城歷險中獲得\n5次額外購物機會。";
+"UpgradeItem15" = "有機會獲得雙倍能量，\n並允許在一次地下城歷險中獲得\n5次額外購物機會。";
+"UpgradeItem16" = "更高的物理攻擊，\n並允許在一次地下城歷險中獲得\n5次額外購物機會。";
+"UpgradeItem17" = "更高的魔法攻擊，\n並允許在一次地下城歷險中獲得\n5次額外購物機會。";
+"UpgradeItem18" = "更高的傷害防禦，\n並允許在一次地下城歷險中獲得\n5次額外購物機會。";
+"UpgradeItem19" = "每回合恢復生命，\n並允許在一次地下城歷險中獲得\n5次額外購物機會。";
+"UpgradeItem20" = "每回合敵人減少生命，\n並允許在一次地下城歷險中獲得\n5次額外購物機會。";
+
+"UpgradeItem21" = "獲得針對敵人的\n額外物理傷害 - %d%%";
+"UpgradeItem22" = "獲得針對敵人的\n額外魔法傷害 - %d%%";
+"UpgradeItem23" = "獲得額外致命一擊的機會\n- %d%%";
+"UpgradeItem24" = "獲得額外生命值 - %d";
+"UpgradeItem25" = "獲得額外防禦力 - %d%%";
+"UpgradeItem26" = "獲得額外大量回血的機會\n- %d%%";
+"UpgradeItem27" = "在每次地下城冒險結束\n獲得額外金幣 - %d%%";
+"UpgradeItem28" = "從每個被打敗的怪物那裡\n獲得額外經驗 - %d%%";
+"UpgradeItem29" = "獲得額外攻擊、防禦、\n魔法和幸運點數 - %d";
+
+// Help Messages
+"HelpPlay01" = "這裡是你的狀態概要：\n包括你的名字、\n英雄類型和等級。";
+"HelpPlay02" = "點擊像這樣的按鈕可以進入戰鬥畫面。\n在那裡你可以挑戰強大的\n敵人並獲取豐厚的獎賞！";
+"HelpPlay03" = "獲取四個命運徽章來解鎖新的地下城，\n它們是等待像你一樣\n的冒險家來發現的聖器。";
+"HelpPlay04" = "在人物功能表裡，你可以查看你的屬性，\n並用你艱難賺取的金幣\n購買強大的武器與防具。";
+"HelpPlay05" = "在城鎮功能表裡，\n你可以去酒館完成任務，升級道具\n（你將會在地下城冒險中購買它們），\n或者學習已被遺忘的技能！";
+
+"HelpStats01" = "點擊這裡輸入你的名字。\n你可以隨時修改你的名字。";
+"HelpStats02" = "這是你的等級。\n當你升級後你會變得更強大，\n但也會遇到更厲害的怪物。";
+"HelpStats03" = "這是升級還需的經驗值。\n你可以在地下城殺死怪物獲取經驗。";
+"HelpStats04" = "這是你的生命值。生命值越大，\n你將能在戰鬥中存活更久。";
+"HelpStats05" = "這是你的攻擊力。攻擊力越大，\n你將對敵人造成更多的物理傷害。";
+"HelpStats06" = "這是你的防禦力。\n提高防禦力能幫助你\n抵禦更強大的怪物進攻。";
+"HelpStats07" = "這是你的魔法值。魔法值越大，\n你將對敵人造成更多的魔法傷害。";
+"HelpStats08" = "這是你的幸運值。\n它能提升諸如暴擊率之類的各種英雄屬性。";
+"HelpStats09" = "這是你當前的英雄類型。\n不同類型有著不同的被動技能，\n它們能以各種有趣的方式提高你的能力。";
+"HelpStats10" = "這些是所有可用的英雄類型。\n你將在地下城冒險中逐漸解鎖它們。";
+"HelpStats11" = "這是你當前的英雄地位，\n它顯示了你的英雄類型的熟練程度。\n通過在戰鬥中使用各種\n英雄類型可以提高地位。";
+"HelpStats12" = "這是你當前英雄類型的特殊能力，\n它們都是被動技能。\n用你的謀略正確地\n使用它們來在戰鬥中取勝。";
+"HelpStats13" = "這是你當前進度的統計資料，\n包括：總分、最多戰鬥回合、\n競技場勝利數以及總共擊殺的怪物數量。";
+
+"HelpInventory01" = "這裡你可以看到你擁有的金幣數量。\n你能在地下城戰鬥中拾取金幣，\n並能用它們升級你的裝備和技能。";
+"HelpInventory02" = "升級你的武器來增加戰鬥力。\n它將提高你對敵人的物理傷害。";
+"HelpInventory03" = "升級你的符咒書來增加魔法值。\n它將提高你對敵人的魔法傷害。";
+"HelpInventory04" = "升級你的盔甲來增加防禦力。\n它將提高你對敵人攻擊的抵抗。";
+"HelpInventory05" = "升級你的戒指來增加幸運值。\n它將提高各種英雄屬性，\n例如致命一擊和大量回血的機率。";
+"HelpInventory06" = "升級你的護身符來增加生命值。\n它將使你在戰鬥中存活更久。";
+"HelpInventory07" = "這是三種你能用來扭轉戰局的道具：\n盾牌、藥劑以及炸彈。";
+"HelpInventory08" = "置換上面槽中的四個\n道具來改變初始設定。";
+
+"HelpTavern01" = "酒館是本地的任務中心。\n你可以通過完成任務來提高\n你的榮譽並獲取豐厚的獎賞，\n包括以更低的價格升級道具，\n或是打敗怪物後獲得更高的經驗。";
+"HelpTavern02" = "當你每次來酒館時，\n可用的任務會隨機地出現在這裡。\n但要注意，酒館裡的美酒是如此醉人，\n你醉醺醺地開始任務後，\n將不會獲得任何經驗。";
+
+"HelpShop01" = "在這個面板裡你可以\n花錢來升級商店裡的道具。\n在地下城戰鬥中，你將有機會遇到商人，\n並從他那裡買到這些道具。";
+"HelpShop02" = "這是商人的等級。當你升級道具時，\n該等級會隨之上升。等級越高，\n商人出售的道具會更強。";
+"HelpShop03" = "這是當你在戰鬥中遇到商人，\n從他那裡可以買到的所有道具。\n它們能提升你的力量和潛能，\n使你在戰鬥中存活更久。不過，\n當你被擊敗時你將立刻失去它們。";
+
+"HelpTrainer01" = "在這個面板裡你可以\n花錢來學習或升級技能，\n將你的實力提升到新的高度。\n這裡有三種技能類別：\n戰鬥、生存、實用。";
+"HelpTrainer02" = "戰鬥技能提高你的進攻能力，\n將給敵人帶來更多傷害。";
+"HelpTrainer03" = "生存技能幫你扛住更多強大的敵人進攻，\n並生存得更久。";
+"HelpTrainer04" = "實用技能可以讓你更快過關。";
+
+"HelpBattle01" = "你的生命槽。\n它會反映你受到的傷害。\n當生命值變0，你就輸掉了戰鬥。";
+"HelpBattle02" = "你的敵人的生命槽。\n當對方的生命值變0，\n你就獲勝了！";
+"HelpBattle03" = "點擊你（或你敵人）\n的生命槽將會顯示各種戰鬥資料。";
+"HelpBattle04" = "你的經驗槽。當你殺死怪物後，\n經驗槽將被慢慢填充。\n經驗槽填滿後你就升級了，\n並將變得更為強大！";
+"HelpBattle05" = "你的能量槽。\n每回合中該槽都會被慢慢填充，\n它將允許你使用各種\n可能扭轉戰局的道具。";
+"HelpBattle06" = "這是遊戲面板。\n連接3個或3個以上相同類型的圖塊，\n來發動進攻、治療或者收集金幣。";
+"HelpBattle07" = "你可以連接任意方向上相似的圖塊，\n包括上、下、左、右甚至對角線。";
+"HelpBattle08" = "連接3個或3個以上的劍，\n可以發動物理攻擊。\n物理攻擊有很小的機率引發致命一擊。";
+"HelpBattle09" = "連接3個或3個以上的魔法符咒，\n可以發動魔法攻擊。\n如果你連接2個（或以上）\n火和2個（或以上）冰符咒，\n你將給對方造成額外傷害。";
+"HelpBattle10" = "收集心形圖塊可以使你回復生命值！\n當你生命值很低時，\n千萬別忘了用它們來治療自己，\n以使自己能從戰鬥中倖存。";
+"HelpBattle11" = "收集金幣可以使你有錢在戰局\n之外購買或升級道具和技能。";
+"HelpBattle12" = "這些是你能在戰鬥中使用的特殊道具。\n例如盾牌可以在一定數量的\n戰鬥回合中保護你。\n你可以在商店裡解鎖新的道具。";
+
+// IAP Messages
+"BecomeAwesome" = "洗劫神奇商店";
+"UnlockMsg01" = "解鎖所有地下城";
+"UnlockMsg02" = "解鎖英雄盾牌";
+"UnlockMsg03" = "解鎖戰鬥道具";
+"UnlockMsg04" = "獲取雙倍金幣";
+"UnlockMsg05" = "特別地牢＃01";
+"BuyGold01" = "包金";
+"BuyGold02" = "胸部的黃金";
+"BuyGold03" = "胸大金獎";
+"BuyGold04" = "巨大的胸部金獎";
+"BuyGold05" = "海盜的寶藏";
+"nextPage" = "--- 下一頁 ---";
+
+"SupportTheDeveloper" = "請支援開發者";
+"TipMsg01" = "九陰真經";
+"TipMsg02" = "辟邪劍譜";
+"TipMsg03" = "論持久戰";
+"TipMsg04" = "孫子兵法";
+"TipMsg05" = "天書奇譚";
+"ExitTipJar" = "返回";
+"TipNope" = "不用";
+"TipSure" = "好的!";
+"UpgradeWorths" = "%@\n\n升級需要 %@。";
+"TipWorths" = "%@\n\n秘笈需要 %@。";
+
+// Upper Bar Messages
+"UpperBarMsg01" = "喜歡這個遊戲嗎？那就請給它一個好評吧！";
+"UpperBarMsg02" = "喜歡這個遊戲嗎？為什麼不來寫個評測呢？";
+"UpperBarMsg03" = "新玩法即將到來 - 敬請保持關注！";
+"UpperBarMsg04" = "今天是個好日子，很適合殺怪！";
+"UpperBarMsg05" = "你覺得這個遊戲的音樂怎麼樣？";
+"UpperBarMsg06" = "真心希望你能玩得開心！";
+"UpperBarMsg07" = "你真是一個了不起的玩家！";
+"UpperBarMsg08" = "感謝你支持本遊戲！";
+
+// Credits
+"Credits01" = "Pantazis Deligiannis";
+"Credits02" = "遊戲設計、\n程式設計、美術";
+"Credits03" = "附加設計: Anastasios Deligiannis\n音樂: Nick Triantafillidis\n並對\nToucharcade社區\n給予我的無價的\n支持致以特別鳴謝！";
+"Credits04" = "最後，還要十分感謝\n正在玩這個遊戲的你！";
