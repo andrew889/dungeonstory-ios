@@ -7,11 +7,12 @@ There are two main reasons behind open sourcing Dungeon Story: (i) to support
 the open source game dev community; and (ii) to help other people with their
 own iOS game projects.
 
-Please note that this is being released without any kind of support. I cannot
-help you in getting the project running, nor can I guarantee that you will be
-able to get it to work. I also do not hold any responsibility or guarantee that
-it won't blow up your computer and/or iOS device if you do try and use it. Use
-it entirely at your own risk and responsibility.
+Please note that Dungeon Story is being released without any kind of support.
+I cannot provide any special support for setting up the project, nor can I
+guarantee that you will be able to get it running. I also do not hold any
+responsibility or give any guarantee that Dungeon Story won't blow up your
+computer and/or iOS device(s) if you do try and use it. Use Dungeon Story
+entirely at your own risk and responsibility.
 
 Note: The font and sounds are not included with this open source release.
 
@@ -34,4 +35,5 @@ Dungeon Story is powered by [Cocos2D][2] framework.
 
 Dungeon Story is released under the MIT License.
 
-Game Assets are copyrighted by Pantazis Deligiannis. Please use them only for learning purposes, and don't distribute them with your own project.
+Game Assets are copyrighted by Pantazis Deligiannis. Please use them only for
+learning purposes, and don't distribute them with your own project.
