@@ -31,7 +31,7 @@ responsibility or give any guarantee that Dungeon Story won't blow up your
 computer and/or iOS device(s) if you do try and use it. Use Dungeon Story
 entirely at your own risk and responsibility.
 
-The game font and sounds are not currently included with this open source release.
+The game fonts and sounds are not currently included with this open source release.
 
 ## License
 
